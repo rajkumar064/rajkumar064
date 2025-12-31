@@ -1,1 +1,1 @@
-## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Akash Rajpurohit — a Software Engineer 👨‍💻
+## Hey <img alt="Hi" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXNndXBmMXdydTJqN2ViNG9nbTA1bjVhdHJrZGUwNnFhcDA1aDN5MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" width="30px" height="30px" />, I'm Raj Kumar — a Data Expert 👨‍💻
