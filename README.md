@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hey <img alt="Hi" src="./assets/Hi.gif" width="30px" height="30px" />, I'm Raj Kumar — a Data Expert 👨‍💻
 <!--
 **rajkumar064/rajkumar064** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
