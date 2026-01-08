@@ -42,17 +42,17 @@
 
 ```javascript
 const rajkumar = {
-  💼 profession: "Data Analyst & BI Specialist",
-  🔧 coreSkills: ["Data Visualization", "Business Intelligence", "ETL", "Dashboard Design"],
-  🛠️ techStack: {
+  "💼 profession": "Data Analyst & BI Specialist",
+  "🔧 coreSkills": ["Data Visualization", "Business Intelligence", "ETL", "Dashboard Design"],
+  "🛠️ techStack": {
     languages: ["SQL", "Python", "DAX", "M"],
     visualization: ["Power BI", "Tableau", "Excel", "Looker"],
     databases: ["MySQL", "PostgreSQL", "SQL Server", "BigQuery"],
     tools: ["Git", "Jupyter", "Azure DevOps", "VS Code"],
     cloud: ["Azure", "AWS", "GCP"]
   },
-  📚 currentFocus: "Building Real-time Analytics Dashboards",
-  🎯 philosophy: "Data is not just numbers, it's stories waiting to be told",
-  ⚡ funFact: "I once optimized a query that ran from 2 hours to 2 minutes!",
-  📞 availability: "Open to exciting opportunities"
-}
+  "📚 currentFocus": "Building Real-time Analytics Dashboards",
+  "🎯 philosophy": "Data is not just numbers, it's stories waiting to be told",
+  "⚡ funFact": "I once optimized a query that ran from 2 hours to 2 minutes!",
+  "📞 availability": "Open to exciting opportunities"
+};
