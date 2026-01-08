@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=140&section=header&text=Raj%20Kumar&fontSize=42&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=06B6D4&center=true&vCenter=true&width=900&lines=Data+Expert+with+Analytics+Passion;Excel+%7C+SQL+%7C+Power+BI+Specialist;Turning+Raw+Data+into+Business+Insights;Building+Professional+Analytics+Portfolio" />
-
-<br/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=500&color=06B6D4&center=true&vCenter=true&width=900&lines=Data+Analyst+%7C+MIS+Executive+%7C+BI+Specialist;Excel+%7C+SQL+%7C+Power+BI+Expertise;Turning+Data+into+Business+Decisions;Building+Industry-Ready+Analytics+Portfolio" />
 
 <img src="https://komarev.com/ghpvc/?username=rajkumar&label=Profile%20Views&color=06B6D4&style=flat-square"/>
 <img src="https://img.shields.io/github/followers/rajkumar?label=Followers&style=flat-square&color=06B6D4"/>
@@ -13,60 +11,39 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=3"/>
+## 👋 Professional Summary
 
-## 🌍 About Me
+Data analytics professional focused on **business intelligence, MIS reporting, and decision-driven dashboards**.  
+Hands-on experience in **Excel, SQL, Power BI, Power Query, and Power Pivot**, with a strong emphasis on accuracy, automation, and clarity.  
+Currently pursuing graduation while building **real-world analytics projects aligned with industry expectations**.
 
-<table align="center">
-<tr>
-<td width="50%">
-
-- 📍 **New Delhi, India**  
-- 🎓 Graduation (Pursuing)  
-- 📊 Data Analytics & Business Intelligence  
-- 🎯 Goal: Industry-ready Data Analyst  
-
-I focus on building **accurate dashboards, clean reports, and automated analytics workflows** that support real business decisions.
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="90%"/>
-
-</td>
-</tr>
-</table>
+📍 **New Delhi, India**  
+🎓 **Experience Level:** Student  
+🎯 **Career Focus:** Analytics & Business Intelligence  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0EA5E9&height=3"/>
-
-## 💡 Professional Summary
-
-> **Data-focused analytics professional** with hands-on experience in **Advanced Excel, SQL, Power BI, Power Query, and MIS reporting**.
-
-- Transform raw datasets into **business-ready dashboards**
-- Build **automated MIS and reporting pipelines**
-- Deliver insights that improve **speed, accuracy, and clarity**
-
-Currently strengthening advanced analytics skills while building a **recruiter-ready, real-world portfolio**.
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=3"/>
-
-## 🌐 Let’s Connect
+## 🌐 Connect with Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/rajkumar">
+<a href="https://linkedin.com/in/your-linkedin">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="https://github.com/rajkumar">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="mailto:your.email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<a href="https://twitter.com/your-twitter">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
+</a>
+<a href="https://instagram.com/your-instagram">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+<a href="https://facebook.com/your-facebook">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook"/>
+</a>
+<a href="https://www.indeed.com/">
+<img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed"/>
 </a>
 <a href="https://yourportfolio.com">
 <img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=vercel"/>
@@ -76,64 +53,25 @@ Currently strengthening advanced analytics skills while building a **recruiter-r
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0EA5E9&height=3"/>
+## 🧠 Skills & Tools
 
-## 🛠️ Technical Skills
-
-### 📊 Business Intelligence & Analytics
-<div align="center">
-
+### 📊 BI & Analytics
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=000"/>
-<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
-
-</div>
-
-- Advanced Excel: Pivot Tables, Lookups, Dynamic Arrays, MIS Reporting  
-- Power BI: DAX, Data Modeling, Interactive Dashboards, KPI Tracking  
-- Google Sheets: Automation, Collaborative Reporting  
-
----
-
-### 🔄 Data Transformation & Modeling
-<div align="center">
-
 <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power_Pivot-2563EB?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/>
 
-</div>
-
-- ETL pipelines and data cleaning  
-- Relationship-based data models  
-- Validation and refresh automation  
-
----
-
-### 🗄️ Databases & Querying
-<div align="center">
-
+### 🗄️ Programming & Databases
 <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=databricks&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 
-</div>
-
-- Joins, subqueries, CTEs  
-- Aggregations and performance optimization  
-- Business-focused analytical queries  
-
----
-
-### 🧰 Tools & Productivity
-<div align="center">
-
+### 🧰 Other Tools
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
 
-</div>
-
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=3"/>
 
 ## 📈 GitHub Analytics
 
@@ -154,63 +92,45 @@ Currently strengthening advanced analytics skills while building a **recruiter-r
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0EA5E9&height=3"/>
-
 ## 🚀 Featured Projects
 
 ### 📊 Sales Performance Dashboard
-- Multi-page Power BI dashboard  
-- KPI cards, trends, YoY comparison  
-- **Impact:** 40% faster decision-making  
-
-🔗 View Project | 🔗 Live Dashboard
-
----
+**Problem:** Fragmented sales data with no single source of truth  
+**Tools:** Power BI, DAX, Excel  
+**Outcome:** Interactive dashboard with KPIs and YoY trends enabling faster decisions  
 
 ### 🔄 MIS Reporting Automation
-- Automated Excel + Power Query pipeline  
-- Reduced manual effort by **80%**  
-- Standardized, error-validated reports  
+**Problem:** Manual, error-prone monthly reporting  
+**Tools:** Excel, Power Query, Power Pivot  
+**Outcome:** Automated pipeline reducing reporting effort by ~80%  
 
-🔗 View Project | 🔗 Documentation
-
----
-
-### 🔍 SQL Data Analysis Case Study
-- Analyzed **1M+ records**  
-- Identified revenue optimization points  
-- Performance-optimized queries  
-
-🔗 View Case Study
+### 🔍 SQL Business Insights Case Study
+**Problem:** Large transactional dataset with unclear revenue drivers  
+**Tools:** SQL (CTEs, Joins, Aggregations)  
+**Outcome:** Identified optimization opportunities through performance-tuned queries  
 
 ---
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=06B6D4&height=3"/>
 
 ## 🌱 Currently Learning & Building
 
-| Focus Area | Progress |
-|-----------|----------|
-| Advanced DAX & Modeling | ███████░░ 75% |
-| SQL Optimization | ██████░░░ 60% |
-| BI Storytelling | █████░░░░ 55% |
-| End-to-End Projects | ████░░░░░ 40% |
+- Advanced DAX and data modeling techniques  
+- SQL query optimization for large datasets  
+- End-to-end analytics projects with real business context  
+- BI storytelling and executive-ready dashboards  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0EA5E9&height=3"/>
+## 📩 For Recruiters & Hiring Managers
 
-## 🏆 Key Achievements
+Interested in **Data Analyst / MIS Executive / BI roles**.  
+Open to internships, entry-level, and project-based opportunities.
 
-- 15+ analytics projects completed  
-- 3 production-level Power BI dashboards  
-- 5 automated reporting workflows  
-- 10M+ records analyzed  
-- 75% reduction in manual effort  
+📧 Email: your.email@gmail.com  
+💼 LinkedIn: https://linkedin.com/in/your-linkedin  
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer&animation=fadeIn" />
 
 <div align="center">
 
