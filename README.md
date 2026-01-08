@@ -1,285 +1,101 @@
 <div align="center">
 
-<!-- Header Banner -->
+<!-- Animated Banner with Gradient -->
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/banner/banner-dark.png" alt="Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
 
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D06B6D4%26height%3D200%26section%3Dheader%26text%3DRAJ%2520KUMAR%26fontSize%3D70%26animation%3DfadeIn%26fontColor%3Dffffff" width="100%" />
-
-<!-- Typing Animation -->
-
-<h1>
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D700%26size%3D35%26duration%3D3000%26pause%3D500%26color%3D06B6D4%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26height%3D50%26lines%3DDATA%2BANALYST%3BBUSINESS%2BINTELLIGENCE%2BENGINEER%3BDATA%2BVISUALIZATION%2BEXPERT%3BSQL%2B%2526%2BPYTHON%2BDEVELOPER" alt="Typing SVG" />
-</a>
+<!-- Animated Name with Glow Effect -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=4000&pause=500&color=06B6D4&center=true&vCenter=true&width=900&height=100&lines=RAJ+KUMAR;DATA+ANALYST;BUSINESS+INTELLIGENCE+EXPERT;DATA+STORYTELLER" alt="Typing SVG" style="text-shadow: 0 0 20px #06B6D4;"/>
+  </a>
 </h1>
 
-<!-- Quick Status Badges -->
-
-<p>
-<img src="https://www.google.com/search?q=https://komarev.com/ghpvc/%3Fusername%3Drajkumar%26label%3DPROFILE%2BVIEWS%26color%3D06B6D4%26style%3Dfor-the-badge" alt="Views" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/STATUS-OPEN%2520FOR%2520OPPORTUNITIES-10B981%3Fstyle%3Dfor-the-badge" alt="Status" />
-<img src="https://img.shields.io/github/followers/rajkumar?logo=github&style=for-the-badge&color=06B6D4" alt="Followers" />
-</p>
+<!-- Animated Subtitle with Icons -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=F7DF1E&center=true&vCenter=true&width=1000&lines=✨+Transforming+Raw+Data+into+Strategic+Insights;📊+Excel+•+SQL+•+Power+BI+•+Python+•+Tableau;🚀+Building+End-to-End+Analytics+Solutions;💡+Data-Driven+Decision+Maker+•+Business+Strategist" alt="Typing SVG" />
 </div>
 
-👤 About Me
+<!-- Profile Stats with Animation -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/rajkumar?tab=repositories">
+    <img alt="Repositories" src="https://custom-icon-badges.demolab.com/badge/Repositories-25+-blue?style=for-the-badge&logo=repo&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rajkumar?tab=stars">
+    <img alt="Stars" src="https://custom-icon-badges.demolab.com/badge/Stars-100+-yellow?style=for-the-badge&logo=star&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rajkumar?tab=followers">
+    <img alt="Followers" src="https://custom-icon-badges.demolab.com/badge/Followers-500+-green?style=for-the-badge&logo=people&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rajkumar">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rajkumar&label=Profile%20Views&color=06B6D4&style=for-the-badge&logo=eye"/>
+  </a>
+</div>
 
-<table align="center">
-<tr>
-<td width="55%" valign="top">
+<!-- Animated Divider with Particles -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=blink&fontSize=90" alt="Waving Divider"/>
 
-  I am a results-driven **Data Analyst** passionate about uncovering hidden patterns within complex datasets. My expertise lies in bridging the gap between raw data and strategic business decisions through automated pipelines and compelling storytelling.
+</div>
 
-  - 🚀 **Current Focus:** Scaling end-to-end analytics solutions & Cloud Data Warehousing.
-  - 💡 **Philosophy:** Data is just noise without the right context and visualization.
-  - ☕ **Fuel:** Powered by black coffee and complex SQL joins.
-  
-  ```javascript
-  const rajkumar = {
-    tools: ["Power BI", "Tableau", "Excel", "SQL Server"],
-    code:  ["Python", "SQL", "DAX", "M-Query"],
-    cloud: ["Azure", "AWS", "GCP"],
-    logic: ["ETL", "Modeling", "Forecasting"]
-  };
-  ```
-</td>
-<td width="45%" align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajkumar&theme=nord_dark" width="100%" />
-</td>
+---
 
-
-</tr>
-</table>
-
-🛠️ Tech Stack
+## 🎯 **About Me**
 
 <div align="center">
-<!-- Unified Icon Grid -->
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dexcel,powerbi,tableau,sql,mysql,postgres,python,py,azure,aws,gcp,git,github,vscode,jupyter" />
-</div>
 
+<!-- Animated Profile Card with Flip Effect -->
 <div align="center">
-<table align="center">
-<tr>
-<td align="center" width="250">
-<strong>Analysis & BI</strong>
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Power_BI-F2C811%3Fstyle%3Dflat%26logo%3Dpowerbi%26logoColor%3Dblack" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-E97627%3Fstyle%3Dflat%26logo%3Dtableau%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Excel-217346%3Fstyle%3Dflat%26logo%3Dmicrosoftexcel%26logoColor%3Dwhite" />
-</td>
-<td align="center" width="250">
-<strong>Databases</strong>
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dflat%26logo%3Dmysql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/PostgreSQL-4169E1%3Fstyle%3Dflat%26logo%3Dpostgresql%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL_Server-CC2927%3Fstyle%3Dflat%26logo%3Dmicrosoftsqlserver%26logoColor%3Dwhite" />
-</td>
-<td align="center" width="250">
-<strong>Development</strong>
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dflat%26logo%3Dpython%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Git-F05032%3Fstyle%3Dflat%26logo%3Dgit%26logoColor%3Dwhite" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0078D4%3Fstyle%3Dflat%26logo%3Dmicrosoftazure%26logoColor%3Dwhite" />
-</td>
+  <table>
+    <tr>
+      <td width="60%" valign="top">
+        
+```javascript
+const rajkumar = {
+  💼 profession: "Data Analyst & BI Specialist",
+  🔧 coreSkills: ["Data Visualization", "Business Intelligence", "ETL", "Dashboard Design"],
+  🛠️ techStack: {
+    languages: ["SQL", "Python", "DAX", "M"],
+    visualization: ["Power BI", "Tableau", "Excel", "Looker"],
+    databases: ["MySQL", "PostgreSQL", "SQL Server", "BigQuery"],
+    tools: ["Git", "Jupyter", "Azure DevOps", "VS Code"],
+    cloud: ["Azure", "AWS", "GCP"]
+  },
+  📚 currentFocus: "Building Real-time Analytics Dashboards",
+  🎯 philosophy: "Data is not just numbers, it's stories waiting to be told",
+  ⚡ funFact: "I once optimized a query that ran from 2 hours to 2 minutes!",
+  📞 availability: "Open to exciting opportunities"
+}
+text
+  </td>
+  <td width="40%" align="center">
+    <!-- Animated 3D Cube with Skills -->
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Data Analytics Animation"/>
+    <br/>
+    <!-- Rotating Skills Badge -->
+    <div style="background: linear-gradient(45deg, #0ea5e9, #3b82f6); padding: 15px; border-radius: 15px; margin-top: 20px; animation: pulse 2s infinite;">
+      <h3 style="color: white; margin: 0;">🚀 Currently Mastering</h3>
+      <p style="color: white; font-size: 18px;">Apache Spark • Azure Synapse • Advanced ML</p>
+    </div>
+  </td>
 </tr>
-</table>
-</div>
-
-🚀 Featured Projects
-
-<table align="center">
-<tr>
-<td>
-<div align="center"><strong>📊 Sales Analytics Suite</strong></div>
-
-
-
-
-
-An end-to-end Power BI solution tracking real-time KPIs and market trends.
-
-
-
-
-
-<code>Power BI</code> <code>SQL</code> <code>DAX</code>
-
-
-
-
-
-
-
-<a href="#">View Project</a> • <a href="#">Live Demo</a>
-</td>
-<td>
-<div align="center"><strong>🔄 ETL Automation Pipeline</strong></div>
-
-
-
-
-
-Python-based pipeline reducing manual data cleaning time by 85%.
-
-
-
-
-
-<code>Python</code> <code>Azure</code> <code>Pandas</code>
-
-
-
-
-
-
-
-<a href="#">View Project</a> • <a href="#">Docs</a>
-</td>
-</tr>
-<tr>
-<td>
-<div align="center"><strong>📈 Financial Forecasting</strong></div>
-
-
-
-
-
-Advanced Tableau dashboard with time-series forecasting for revenue.
-
-
-
-
-
-<code>Tableau</code> <code>SQL</code> <code>Stats</code>
-
-
-
-
-
-
-
-<a href="#">View Project</a> • <a href="#">Dashboard</a>
-</td>
-<td>
-<div align="center"><strong>🔍 Inventory Optimizer</strong></div>
-
-
-
-
-
-SQL-heavy analysis identifying $50k+ in redundant stock costs.
-
-
-
-
-
-<code>PostgreSQL</code> <code>Excel</code> <code>Analysis</code>
-
-
-
-
-
-
-
-<a href="#">View Project</a> • <a href="#">Case Study</a>
-</td>
-</tr>
-</table>
-
+</table> </div></div>
+🛠️ Tech Stack & Tools
+<div align="center">
+📊 Data Analytics & Visualization
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px;"> <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&style=plastic"/> <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/Qlik-Sense-%23000000?style=for-the-badge&logo=qlik&logoColor=white&style=plastic"/> </div>
+💾 Databases & Querying
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px;"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white&style=plastic"/> </div>
+🔧 Development & Tools
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px;"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&style=plastic"/> </div>
+☁️ Cloud & Platforms
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center; margin: 20px;"> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&style=plastic"/> <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white&style=plastic"/> </div><!-- Animated Tech Stack Icons --><div align="center" style="margin: 30px 0;"> <img src="https://skillicons.dev/icons?i=excel,powerbi,tableau,sql,postgresql,mysql,python,r,git,github,docker,vscode,azure,aws,gcp,jupyter,tensorflow" alt="Tech Stack" style="animation: float 3s ease-in-out infinite;"/> </div></div>
 📈 GitHub Analytics
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drajkumar%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3D06B6D4%26icon_color%3D06B6D4%26text_color%3Dffffff%26bg_color%3D0d1117" height="170" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drajkumar%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dtrue%26title_color%3D06B6D4%26text_color%3Dffffff%26bg_color%3D0d1117" height="170" />
-</div>
-
-<div align="center">
-
-
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumar&theme=react-dark&bg_color=0d1117&hide_border=true&color=06B6D4&line=06B6D4&point=ffffff&area=true&area_color=06B6D4" width="95%" />
-</div>
-
+<div align="center"><!-- GitHub Stats Grid with Hover Effects --><table align="center" style="border-spacing: 20px;"> <tr> <td> <a href="https://github.com/rajkumar"> <img height="200em" src="https://github-readme-stats.vercel.app/api?username=rajkumar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00ffff&icon_color=00ffff&text_color=ffffff&border_radius=15" alt="GitHub Stats" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/> </a> </td> <td> <a href="https://github.com/rajkumar"> <img height="200em" src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar&theme=radical&hide_border=true&background=0d1117&stroke=00ffff&ring=00ffff&fire=00ffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00ffff&sideLabels=ffffff&dates=ffffff&border_radius=15" alt="GitHub Streak" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"/> </a> </td> </tr> </table><!-- Most Used Languages with Progress Bars --><div align="center"> <h3>📊 Language Distribution</h3> <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&text_color=ffffff&border_radius=15&langs_count=8" alt="Most Used Languages"/> </div><!-- Animated Activity Graph --><div align="center" style="margin: 30px 0;"> <h3>📅 Contribution Activity</h3> <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumar&theme=react-dark&bg_color=0d1117&hide_border=true&color=00ffff&line=00ffff&point=ffffff&area=true&area_color=00ffff&radius=15" alt="Activity Graph" width="95%"/> </div></div>
+🚀 Featured Projects
+<div align="center"><!-- Project Cards with Hover Effects --><div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;"><!-- Project 1 --><div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 25px; border-radius: 20px; width: 320px; transition: all 0.3s; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" onmouseover="this.style.transform='translateY(-10px)';this.style.boxShadow='0 15px 30px rgba(0,255,255,0.3)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 10px 20px rgba(0,0,0,0.2)'"> <h3>📊 Enterprise Sales Dashboard</h3> <div style="margin: 15px 0;"> <span style="background: #F2C811; color: black; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">Power BI</span> <span style="background: #4479A1; color: white; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">SQL</span> <span style="background: #217346; color: white; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">Excel</span> </div> <p>Real-time sales analytics with predictive insights and automated reporting</p> <div style="margin-top: 20px;"> <a href="#" style="background: #06B6D4; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin: 5px; display: inline-block;">View Project</a> <a href="#" style="background: #10B981; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin: 5px; display: inline-block;">Live Demo</a> </div> </div><!-- Project 2 --><div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 25px; border-radius: 20px; width: 320px; transition: all 0.3s; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" onmouseover="this.style.transform='translateY(-10px)';this.style.boxShadow='0 15px 30px rgba(255,165,0,0.3)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 10px 20px rgba(0,0,0,0.2)'"> <h3>🔄 ETL Pipeline Automation</h3> <div style="margin: 15px 0;"> <span style="background: #3776AB; color: white; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">Python</span> <span style="background: #0078D4; color: white; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">Azure</span> <span style="background: #2088FF; color: white; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">GitHub Actions</span> </div> <p>Reduced manual data processing by 85% with automated workflows</p> <div style="margin-top: 20px;"> <a href="#" style="background: #06B6D4; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin: 5px; display: inline-block;">View Code</a> <a href="#" style="background: #8B5CF6; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin: 5px; display: inline-block;">Documentation</a> </div> </div><!-- Project 3 --><div style="background: linear-gradient(145deg, #1a1a2e, #16213e); padding: 25px; border-radius: 20px; width: 320px; transition: all 0.3s; box-shadow: 0 10px 20px rgba(0,0,0,0.2);" onmouseover="this.style.transform='translateY(-10px)';this.style.boxShadow='0 15px 30px rgba(231,76,60,0.3)'" onmouseout="this.style.transform='translateY(0)';this.style.boxShadow='0 10px 20px rgba(0,0,0,0.2)'"> <h3>📈 Financial Analytics Suite</h3> <div style="margin: 15px 0;"> <span style="background: #E97627; color: white; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">Tableau</span> <span style="background: #CC2927; color: white; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">SQL Server</span> <span style="background: #742774; color: white; padding: 5px 10px; border-radius: 10px; margin: 3px; display: inline-block;">Power Query</span> </div> <p>Comprehensive financial analysis with forecasting capabilities</p> <div style="margin-top: 20px;"> <a href="#" style="background: #06B6D4; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin: 5px; display: inline-block;">View Project</a> <a href="#" style="background: #F59E0B; color: white; padding: 10px 20px; border-radius: 10px; text-decoration: none; margin: 5px; display: inline-block;">Dashboard</a> </div> </div></div></div>
+📊 Project Impact Metrics
+<div align="center"><!-- Animated Metrics Display --><div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;"> <div style="text-align: center; padding: 20px; background: linear-gradient(45deg, #1a1a2e, #16213e); border-radius: 15px; width: 200px;"> <div style="font-size: 48px; color: #06B6D4; font-weight: bold;">85%</div> <div style="color: #ccc;">Time Saved</div> </div> <div style="text-align: center; padding: 20px; background: linear-gradient(45deg, #1a1a2e, #16213e); border-radius: 15px; width: 200px;"> <div style="font-size: 48px; color: #10B981; font-weight: bold;">92%</div> <div style="color: #ccc;">Accuracy</div> </div> <div style="text-align: center; padding: 20px; background: linear-gradient(45deg, #1a1a2e, #16213e); border-radius: 15px; width: 200px;"> <div style="font-size: 48px; color: #8B5CF6; font-weight: bold;">88%</div> <div style="color: #ccc;">User Adoption</div> </div> <div style="text-align: center; padding: 20px; background: linear-gradient(45deg, #1a1a2e, #16213e); border-radius: 15px; width: 200px;"> <div style="font-size: 48px; color: #F59E0B; font-weight: bold;">95%</div> <div style="color: #ccc;">ROI Generated</div> </div></div><!-- Skills Progress Bars --><h3>🚀 Skill Proficiency</h3> <div style="width: 80%; margin: 0 auto;"> <div style="margin: 15px 0;"> <div style="display: flex; justify-content: space-between;"> <span>Power BI & DAX</span> <span>95%</span> </div> <div style="height: 10px; background: #333; border-radius: 5px; overflow: hidden;"> <div style="width: 95%; height: 100%; background: linear-gradient(90deg, #06B6D4, #0ea5e9); border-radius: 5px;"></div> </div> </div> <div style="margin: 15px 0;"> <div style="display: flex; justify-content: space-between;"> <span>SQL & Database</span> <span>90%</span> </div> <div style="height: 10px; background: #333; border-radius: 5px; overflow: hidden;"> <div style="width: 90%; height: 100%; background: linear-gradient(90deg, #10B981, #34d399); border-radius: 5px;"></div> </div> </div> <div style="margin: 15px 0;"> <div style="display: flex; justify-content: space-between;"> <span>Python for Analytics</span> <span>85%</span> </div> <div style="height: 10px; background: #333; border-radius: 5px; overflow: hidden;"> <div style="width: 85%; height: 100%; background: linear-gradient(90deg, #8B5CF6, #a78bfa); border-radius: 5px;"></div> </div> </div> <div style="margin: 15px 0;"> <div style="display: flex; justify-content: space-between;"> <span>Data Visualization</span> <span>92%</span> </div> <div style="height: 10px; background: #333; border-radius: 5px; overflow: hidden;"> <div style="width: 92%; height: 100%; background: linear-gradient(90deg, #F59E0B, #fbbf24); border-radius: 5px;"></div> </div> </div></div></div>
 🏆 Certifications & Achievements
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Certified-PL--300-blue%3Fstyle%3Dflat-square%26logo%3Dmicrosoft" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Tableau-Desktop_Specialist-orange%3Fstyle%3Dflat-square%26logo%3Dtableau" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Google-Data_Analytics-blue%3Fstyle%3Dflat-square%26logo%3Dgoogle" />
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/AWS-Cloud_Practitioner-232F3E%3Fstyle%3Dflat-square%26logo%3Damazonaws" />
-</div>
-
-<details>
-<summary align="center"><b>✨ Click to Expand Full Honors List</b></summary>
-
-
-
-
-
-<div align="center">
-
-Achievement
-
-Organization
-
-Year
-
-Power BI Data Analyst Associate
-
-Microsoft
-
-2024
-
-Tableau Desktop Specialist
-
-Tableau
-
-2024
-
-5-Star SQL Developer
-
-HackerRank
-
-2023
-
-Top 10% Data Challenge Finisher
-
-Kaggle
-
-2023
-
-</div>
-</details>
-
+<div align="center"><!-- Animated Certifications Carousel --><div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 30px 0;"> <div style="text-align: center; padding: 20px; background: white; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> <img src="https://images.credly.com/size/110x110/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="80" alt="Microsoft Certified"/> <p style="margin-top: 10px; font-weight: bold;">Microsoft Certified:<br/>Data Analyst Associate</p> </div> <div style="text-align: center; padding: 20px; background: white; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> <img src="https://images.credly.com/size/110x110/images/70d71dfd-7a3e-4d5e-84c2-59b2d2c7f5d5/Tableau-Certified-Data-Analyst.png" width="80" alt="Tableau Certified"/> <p style="margin-top: 10px; font-weight: bold;">Tableau Certified<br/>Data Analyst</p> </div> <div style="text-align: center; padding: 20px; background: white; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> <img src="https://images.credly.com/size/110x110/images/00634f25-50e9-4e28-be3d-ccd6c5c5db1f/image.png" width="80" alt="Google Data Analytics"/> <p style="margin-top: 10px; font-weight: bold;">Google Data Analytics<br/>Professional</p> </div> <div style="text-align: center; padding: 20px; background: white; border-radius: 15px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);"> <img src="https://images.credly.com/size/110x110/images/4136ced8-75ce-4b66-bbaa-5c2e1f24f0c7/image.png" width="80" alt="Azure Data Fundamentals"/> <p style="margin-top: 10px; font-weight: bold;">Microsoft Azure<br/>Data Fundamentals</p> </div></div></div>
 🤝 Let's Connect
-
-<div align="center">
-<a href="mailto:rajkumar@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" />
-</a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/rajkumar">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" />
-</a>
-<a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-06B6D4%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite" />
-</a>
-<a href="#">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Resume-10B981%3Fstyle%3Dfor-the-badge%26logo%3Dgooglesheets%26logoColor%3Dwhite" />
-</a>
-</div>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D06B6D4%26height%3D100%26section%3Dfooter%26reversal%3Dtrue" width="100%" />
-<p><i>"Without data, you're just another person with an opinion." — W. Edwards Deming</i></p>
-</div>
+<div align="center"><!-- Social Links with Hover Effects --><div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 30px 0;"> <a href="https://linkedin.com/in/rajkumar" style="text-decoration: none;"> <div style="display: flex; align-items: center; padding: 15px 25px; background: linear-gradient(45deg, #0A66C2, #0a4a8a); color: white; border-radius: 10px; transition: all 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"> <span style="margin-right: 10px;">🔗</span> <span>LinkedIn</span> </div> </a> <a href="https://github.com/rajkumar" style="text-decoration: none;"> <div style="display: flex; align-items: center; padding: 15px 25px; background: linear-gradient(45deg, #181717, #000000); color: white; border-radius: 10px; transition: all 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"> <span style="margin-right: 10px;">💻</span> <span>GitHub</span> </div> </a> <a href="mailto:rajkumar@example.com" style="text-decoration: none;"> <div style="display: flex; align-items: center; padding: 15px 25px; background: linear-gradient(45deg, #EA4335, #c1351d); color: white; border-radius: 10px; transition: all 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"> <span style="margin-right: 10px;">📧</span> <span>Email</span> </div> </a> <a href="https://rajkumar-portfolio.netlify.app" style="text-decoration: none;"> <div style="display: flex; align-items: center; padding: 15px 25px; background: linear-gradient(45deg, #06B6D4, #0ea5e9); color: white; border-radius: 10px; transition: all 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'"> <span style="margin-right: 10px;">🌐</span> <span>Portfolio</span> </div> </a></div><!-- Contact Form Animation --><div style="margin: 40px 0;"> <h3>📬 Get In Touch</h3> <p style="color: #ccc; max-width: 600px; margin: 0 auto;"> I'm always open to discussing data analytics projects, creative ideas, or opportunities to be part of your vision. </p> <div style="margin-top: 20px;"> <a href="mailto:rajkumar@example.com" style="display: inline-block; padding: 15px 40px; background: linear-gradient(45deg, #06B6D4, #0ea5e9); color: white; text-decoration: none; border-radius: 30px; font-weight: bold; font-size: 18px; transition: all 0.3s;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"> ✉️ Send Me an Email </a> </div> </div></div>
+<div align="center"><!-- Animated Footer --><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=blink&reversal=true" alt="Waving Footer"/><!-- Final Typing Animation --><h3>✨ Let's Create Something Amazing Together!</h3> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Decisions+%F0%9F%93%88;Building+The+Future+With+Analytics+%F0%9F%9A%80;Data+Has+A+Better+Story+To+Tell+%F0%9F%93%9A" alt="Footer Typing"/><!-- Visitor Counter --><p align="center" style="margin: 20px 0;"> <img src="https://profile-counter.glitch.me/rajkumar/count.svg" alt="Visitor Count"/> </p><!-- Footer --><p align="center"> Made with ❤️ using GitHub Markdown & <img src="https://skillicons.dev/icons?i=vscode,github,markdown" alt="Tools Used" style="vertical-align: middle; margin: 0 5px;"/> <br/> ⭐️ From <a href="https://github.com/rajkumar" style="color: #06B6D4; text-decoration: none;">Raj Kumar</a> | Last Updated: <span id="currentDate"></span> </p></div><script> // Update current date document.getElementById('currentDate').textContent = new Date().toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' }); </script><style> @keyframes float { 0% { transform: translateY(0px); } 50% { transform: translateY(-10px); } 100% { transform: translateY(0px); } } @keyframes pulse { 0% { transform: scale(1); } 50% { transform: scale(1.05); } 100% { transform: scale(1); } } </style>
