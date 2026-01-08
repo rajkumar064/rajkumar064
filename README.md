@@ -119,32 +119,114 @@ Automation • Analysis • Collaboration
 
 ---
 
-## 🚀 Featured Projects
+## 👋 Professional Summary
 
-### 📊 Sales Performance Dashboard
-- Built multi-page Power BI dashboard for sales & region tracking  
-- Reduced reporting time by **40%**
-- Enabled trend, YoY, and KPI analysis  
+Data-focused analytics professional with practical experience in **Excel, SQL, Power BI, Power Query, and MIS reporting**.  
+Focused on building **accurate dashboards, automated reports, and decision-ready insights** used by business and operations teams.
 
-🔗 Project Link | 🔗 Live Dashboard
+I specialize in:
+- Turning unstructured data into **clean, reliable reporting models**
+- Designing dashboards that highlight **trends, KPIs, and exceptions**
+- Reducing manual effort through **automation and structured workflows**
 
----
-
-### 🔄 MIS Reporting Automation
-- Automated recurring Excel reports using **Power Query**
-- Reduced manual effort by **80%**
-- Implemented validation checks for data accuracy  
-
-🔗 Project | 🔗 Documentation
+Currently strengthening advanced analytics skills while building **real-world, portfolio-ready projects** alongside graduation.
 
 ---
 
-### 🔍 SQL Business Case Study
-- Analyzed **1M+ records**
-- Identified revenue leakage & optimization points
-- Used optimized queries and CTEs  
+## 🌐 Connect With Me
 
-🔗 Case Study | 🔗 Analysis Notes
+<p align="center">
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.indeed.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🧠 Skills & Toolset
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-5e2a9d2f-2d6a-4c52-8d1c-61c9bb1e3c4e.gif" width="300"/>
+</p>
+
+### 📊 Business Intelligence & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=power-bi&logoColor=000"/>
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=flat-square&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Pivot-2563EB?style=flat-square&logo=microsoft&logoColor=white"/>
+</p>
+
+**Core strengths**
+- Data cleaning, transformation, and validation  
+- KPI design, trend analysis, and variance tracking  
+- MIS and management reporting workflows  
+
+---
+
+### 🗄️ Databases & Querying
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
+
+- Joins, subqueries, CTEs  
+- Aggregations and performance-focused querying  
+- Business-driven analytical queries  
+
+---
+
+### 🧰 Tools & Productivity
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=flat-square&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white"/>
+</p>
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=transparent&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🧩 Featured Projects
+
+### 📌 Sales Performance Dashboard
+**Problem:** Limited visibility into regional and product-wise sales trends  
+**Tools:** Excel, Power BI  
+**Outcome:** Interactive dashboards enabling faster insights and management decisions  
+
+---
+
+### 📌 MIS Reporting Automation
+**Problem:** Manual, repetitive reporting consuming hours weekly  
+**Tools:** Advanced Excel, Power Query  
+**Outcome:** Automated, standardized MIS reports with improved accuracy  
+
+---
+
+### 📌 SQL Data Analysis Case Study
+**Problem:** Large raw datasets with no actionable metrics  
+**Tools:** SQL  
+**Outcome:** Optimized queries delivering KPIs, trends, and performance insights  
+
 
 ---
 
