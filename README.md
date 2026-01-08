@@ -1,66 +1,58 @@
-## 🚀 Featured Projects
-
 <div align="center">
-| Project | Description | Tech Stack | Links |
-|---------|-------------|------------|-------|
-| 📊 Enterprise Sales Dashboard | Real-time sales analytics with predictive insights | Power BI, SQL, Excel | Demo • Code |
-| 🔄 ETL Pipeline Automation | Automated data processing workflow | Python, Azure, Airflow | View • Docs |
-| 📈 Financial Analytics Suite | Comprehensive financial analysis platform | Tableau, SQL Server, Python | Demo • Code |
-| 🤖 Customer Segmentation Model | ML-driven customer segmentation | Python, Scikit-learn, Pandas | View • Paper |
+  
+<!-- Animated Gradient Banner -->
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/banner/banner-dark.png" alt="Banner" width="100%" style="border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);"/>
+
+<!-- Animated Typing Name -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=48&duration=4000&pause=500&color=06B6D4&center=true&vCenter=true&width=900&height=100&lines=RAJ+KUMAR;DATA+ANALYST;BUSINESS+INTELLIGENCE+EXPERT;DATA+STORYTELLER" alt="Typing SVG" style="text-shadow: 0 0 20px #06B6D4;"/>
+  </a>
+</h1>
+
+<!-- Animated Subtitle -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1500&color=F7DF1E&center=true&vCenter=true&width=1000&lines=✨+Transforming+Raw+Data+into+Strategic+Insights;📊+Excel+•+SQL+•+Power+BI+•+Python+•+Tableau;🚀+Building+End-to-End+Analytics+Solutions;💡+Data-Driven+Decision+Maker+•+Business+Strategist" alt="Typing SVG" />
 </div>
 
-## 📊 Project Impact Metrics
-
-<div align="center">
-| Metric | Improvement | Impact |
-|--------|-------------|--------|
-| Processing Time | Reduced by 85% | ⏱️ 2 hours → 18 minutes |
-| Report Accuracy | Increased to 92% | 📈 75% → 92% accuracy |
-| User Adoption | Achieved 88% | 👥 1000+ active users |
-| ROI Generated | 95% return | 💰 $500K+ savings |
+<!-- Profile Stats -->
+<div align="center" style="margin: 20px 0;">
+  <a href="https://github.com/rajkumar?tab=repositories">
+    <img alt="Repositories" src="https://custom-icon-badges.demolab.com/badge/Repositories-25+-blue?style=for-the-badge&logo=repo&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rajkumar?tab=stars">
+    <img alt="Stars" src="https://custom-icon-badges.demolab.com/badge/Stars-100+-yellow?style=for-the-badge&logo=star&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rajkumar?tab=followers">
+    <img alt="Followers" src="https://custom-icon-badges.demolab.com/badge/Followers-500+-green?style=for-the-badge&logo=people&logoColor=white"/>
+  </a>
+  <a href="https://github.com/rajkumar">
+    <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=rajkumar&label=Profile%20Views&color=06B6D4&style=for-the-badge&logo=eye"/>
+  </a>
 </div>
 
-## 🏆 Certifications
-
-<div align="center">
-<img src="https://img.shields.io/badge/Microsoft_Certified-Data_Analyst_Associate-0078D4?style=for-the-badge&logo=microsoft" alt="Microsoft Certified"/>
-<img src="https://img.shields.io/badge/Tableau-Desktop_Specialist-E97627?style=for-the-badge&logo=tableau" alt="Tableau Certified"/>
-<img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google" alt="Google Certified"/>
-<img src="https://img.shields.io/badge/Azure-Data_Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure Certified"/>
-</div>
-
-## 🤝 Let's Connect
-
-<div align="center">
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="#"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
-</div>
-
-<div align="center">
-
-## ✨ Let's Create Something Amazing Together!
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=06B6D4&center=true&vCenter=true&width=800&lines=Turning+Data+Into+Decisions+%F0%9F%93%88;Building+The+Future+With+Analytics+%F0%9F%9A%80;Data+Has+A+Better+Story+To+Tell+%F0%9F%93%9A" alt="Typing SVG"/>
-
-<br>
-
-<img src="https://profile-counter.glitch.me/rajkumar/count.svg" alt="Visitor Counter"/>
-
-<br>
-
-**Made with ❤️ using GitHub Markdown**  
-**Last Updated:** <span id="currentDate"></span>
+<!-- Animated Wave Divider -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&animation=blink&fontSize=90" alt="Waving Divider"/>
 
 </div>
 
-<script>
-  document.getElementById('currentDate').textContent = new Date().toLocaleDateString('en-US', { 
-    year: 'numeric', 
-    month: 'long', 
-    day: 'numeric' 
-  });
-</script>
+---
+
+## 🎯 **About Me**
+
+```javascript
+const rajkumar = {
+  💼 profession: "Data Analyst & BI Specialist",
+  🔧 coreSkills: ["Data Visualization", "Business Intelligence", "ETL", "Dashboard Design"],
+  🛠️ techStack: {
+    languages: ["SQL", "Python", "DAX", "M"],
+    visualization: ["Power BI", "Tableau", "Excel", "Looker"],
+    databases: ["MySQL", "PostgreSQL", "SQL Server", "BigQuery"],
+    tools: ["Git", "Jupyter", "Azure DevOps", "VS Code"],
+    cloud: ["Azure", "AWS", "GCP"]
+  },
+  📚 currentFocus: "Building Real-time Analytics Dashboards",
+  🎯 philosophy: "Data is not just numbers, it's stories waiting to be told",
+  ⚡ funFact: "I once optimized a query that ran from 2 hours to 2 minutes!",
+  📞 availability: "Open to exciting opportunities"
+}
