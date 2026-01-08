@@ -81,7 +81,6 @@ Currently strengthening advanced analytics skills while building a **recruiter-r
 ## 🛠️ Technical Skills
 
 ### 📊 Business Intelligence & Analytics
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
@@ -97,7 +96,6 @@ Currently strengthening advanced analytics skills while building a **recruiter-r
 ---
 
 ### 🔄 Data Transformation & Modeling
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
@@ -112,7 +110,6 @@ Currently strengthening advanced analytics skills while building a **recruiter-r
 ---
 
 ### 🗄️ Databases & Querying
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=databricks&logoColor=white"/>
@@ -126,7 +123,6 @@ Currently strengthening advanced analytics skills while building a **recruiter-r
 ---
 
 ### 🧰 Tools & Productivity
-
 <div align="center">
 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
@@ -143,9 +139,16 @@ Currently strengthening advanced analytics skills while building a **recruiter-r
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajkumar&show_icons=true&theme=nord&hide_border=true"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar&theme=nord&hide_border=true"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar&layout=compact&theme=nord&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rajkumar&show_icons=true&theme=nord&hide_border=true" width="420"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajkumar&theme=nord&hide_border=true" width="420"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajkumar&layout=compact&theme=nord&hide_border=true" width="420"/>
 
 </div>
 
@@ -211,7 +214,7 @@ Currently strengthening advanced analytics skills while building a **recruiter-r
 
 <div align="center">
 
-**Built with discipline, clarity, and zero fluff**  
+**Built with clarity, discipline, and zero broken SVGs**  
 _Last Updated: January 2026_
 
 </div>
