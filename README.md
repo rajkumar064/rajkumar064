@@ -108,7 +108,19 @@ Currently building a robust analytics portfolio alongside graduation.
 ## 🌱 Currently Working On
 - Power BI DAX and data modeling  
 - SQL optimization for analytics  
-- End-to-end analytics portfolio projects  
+- End-to-end analytics portfolio projects
+---
+<div align="center">
+
+| 🎯 **Focus Area** | 📚 **Status** | 🔄 **Progress** |
+|---|---|---|
+| Advanced DAX & Data Modeling | 📖 In Progress | ███████░░ 75% |
+| SQL Query Optimization | 📖 In Progress | ██████░░░ 60% |
+| Power BI Advanced Visualizations | 📖 In Progress | █████░░░░ 55% |
+| End-to-End Analytics Projects | 🏗️ Building | ████░░░░░ 40% |
+
+</div>
+
 
 ---
 
