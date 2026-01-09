@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1000&color=0EA5E9&center=true&vCenter=true&width=800&height=60&lines=Raj+Kumar;Data+Expert+%7C+Insights+%26+Reporting;Excel+%7C+SQL+%7C+Power+BI+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&pause=1000&color=0EA5E9&center=true&vCenter=true&width=820&height=60&lines=Raj+Kumar;Data+Expert+%7C+Insights+%26+Reporting;Excel+%7C+SQL+%7C+Power+BI+Specialist" />
 </h1>
 
 <p align="center">
@@ -23,12 +23,12 @@
 ## 👋 Professional Summary
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=0EA5E9&center=true&vCenter=true&width=850&lines=Transforming+Data+Into+Actionable+Insights;Building+Dashboards+That+Drive+Decisions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=500&color=0EA5E9&center=true&vCenter=true&width=900&lines=Transforming+Data+Into+Actionable+Insights;Building+Dashboards+That+Drive+Decisions" />
 </p>
 
 <p align="center">
-Data-focused professional with strong hands-on expertise in <b>Advanced Excel, SQL, and Power BI</b>.<br/>
-Experienced in building clean dashboards, automated reports, and decision-ready insights.<br/>
+Data-focused professional with hands-on expertise in <b>Advanced Excel, SQL, and Power BI</b>.<br/>
+Skilled in building automated reports, clean dashboards, and decision-ready insights.<br/>
 Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
@@ -73,16 +73,27 @@ Currently strengthening real-world analytics projects alongside graduation.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&theme=transparent&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=transparent&hide_border=true" height="170"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=transparent&hide_border=true"
+    height="170"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&langs_count=8&theme=transparent&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true"
+    width="90%"
+  />
 </p>
 
 ---
@@ -99,7 +110,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 
 ## 🌱 Currently Working On
 
-- Advanced Power BI DAX & modeling  
+- Advanced Power BI DAX & data modeling  
 - SQL optimization for analytics  
 - End-to-end analytics portfolio projects  
 
@@ -108,7 +119,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 ## 📬 Open to Opportunities
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=700&lines=Open+to+Data+Analysis+%7C+MIS+%7C+BI+Roles" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=800&lines=Open+to+Data+Analysis+%7C+MIS+%7C+BI+Roles" />
 </p>
 
 <p align="center">
