@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raj2608/raj2608/main/assets/data-analytics.gif" width="480" height="320" alt="Data Analytics Animation"/>
+  <img src="https://github.com/raj2608/raj2608/blob/main/assets/data-analytics.gif?raw=true" width="480" height="320" alt="Data Analytics Animation"/>
 </p>
 
 <p align="center">
@@ -41,33 +41,29 @@ Currently building a robust analytics portfolio alongside graduation.
 
 <p align="center">
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30&animation=floating"/>
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=30"/>
   </a>
   &nbsp;
   <!-- GitHub -->
   <a href="https://github.com/RAJ-GITHUB-USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=30&animation=floating"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717&logoWidth=30"/>
   </a>
   &nbsp;
-  <!-- Twitter -->
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000&logoWidth=30&animation=floating"/>
+  <!-- Email -->
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335&logoWidth=30"/>
   </a>
   &nbsp;
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F&logoWidth=30&animation=floating"/>
-  </a>
-  &nbsp;
-  <!-- Indeed -->
-  <a href="https://www.indeed.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white&labelColor=003A9B&logoWidth=30&animation=floating"/>
+  <!-- Portfolio -->
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=4285F4&logoWidth=30"/>
   </a>
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,100:7e22ce&height=100&section=header&reversal=false&animation=fadeIn" />
+  <!-- Using a simple divider instead of capsule-render API -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3"/>
 </div>
 
 ---
@@ -75,33 +71,40 @@ Currently building a robust analytics portfolio alongside graduation.
 ## 🧠 Skills & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=excel,powerbi,mysql,github&theme=dark&perline=8" alt="Skills Icons" />
+  <!-- Using reliable SVG icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
   <br>
-  <img src="https://skillicons.dev/icons?i=google,postgresql,vscode,git&theme=dark&perline=8" alt="Skills Icons 2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50"/>
 </div>
 
 ### 📊 BI & Analytics
 <div align="center">
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white&animation=pulse"/>
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black&animation=pulse"/>
-  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=powerquery&logoColor=white&animation=pulse"/>
-  <img src="https://img.shields.io/badge/Power_Pivot-2563EB?style=for-the-badge&logo=microsoft&logoColor=white&animation=pulse"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Power_Query-742774?style=for-the-badge&logo=powerquery&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power_Pivot-2563EB?style=for-the-badge&logo=microsoft&logoColor=white"/>
 </div>
 
 ### 📄 Spreadsheets & Reporting
 <div align="center">
-  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white&animation=pulse"/>
+  <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
 </div>
 
 ### 🗄️ Query & Data
 <div align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white&animation=pulse"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ### 🧰 Tools
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&animation=pulse"/>
-  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white&animation=pulse"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS_Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
 </div>
 
 ---
@@ -112,21 +115,22 @@ Currently building a robust analytics portfolio alongside graduation.
   <table>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&rank_icon=github&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_radius=15&include_all_commits=true&count_private=true" height="180"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_radius=10&include_all_commits=true&count_private=true" height="180"/>
       </td>
       <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=radical&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border_radius=15" height="180"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=dark&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border_radius=10" height="180"/>
       </td>
     </tr>
   </table>
   
   <br>
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=15&langs_count=8" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=10&langs_count=8" height="180"/>
   
   <br>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-GITHUB-USERNAME&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=0ea5e9&line=7e22ce&point=0ea5e9&height=300" alt="GitHub Activity Graph"/>
+  <!-- Simple activity graph with reliable API -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-GITHUB-USERNAME&theme=github-dark&bg_color=0d1117&hide_border=true&line=0ea5e9&point=ffffff&area=true" width="90%" alt="GitHub Activity Graph"/>
 </div>
 
 ---
@@ -144,7 +148,7 @@ Currently building a robust analytics portfolio alongside graduation.
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&gradient=0ea5e9,7e22ce&height=2&width=800&animation=twinkling"/>
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="3"/>
 </div>
 
 ---
@@ -171,17 +175,24 @@ Currently building a robust analytics portfolio alongside graduation.
   
   <br><br>
   
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/📩_Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2&logoWidth=20&animation=bounce" alt="Connect on LinkedIn"/>
+  <a href="https://www.linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/📩_Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="Connect on LinkedIn"/>
+  </a>
+  
+  &nbsp;&nbsp;&nbsp;
+  
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/📧_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email Me"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/raj2608/raj2608/main/assets/footer-wave.svg" width="100%" alt="Footer Wave"/>
+  <!-- Simple footer with reliable image -->
+  <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%" alt="Footer"/>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,50:7e22ce,100:0ea5e9&height=120&section=footer&reversal=true&animation=twinkling"/>
+  <i>Last updated: December 2023</i>
 </p>
