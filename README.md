@@ -67,7 +67,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117&color=0ea5e9&line=7e22ce&point=ffffff&area=true&area_color=0ea5e9&custom_title=GitHub%20Contribution%20Graph" width="95%"/>
+  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/deepseek_mermaid_20260116_b8aac1.svg" width="95%"/>
 </p>
 
 <div align="center">
