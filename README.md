@@ -9,9 +9,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAJ-GITHUB-USERNAME&label=Profile+Views&color=0ea5e9&style=flat"/>
   <img src="https://visitcount.itsvg.in/api?id=RAJ-GITHUB-USERNAME&label=Visitors&color=0ea5e9&icon=0&pretty=true" />
-  <img src="https://img.shields.io/github/followers/RAJ-GITHUB-USERNAME?label=Followers&style=flat&color=0ea5e9" />
-  <img src="https://img.shields.io/github/stars/RAJ-GITHUB-USERNAME?label=Total%20Stars&color=0ea5e9" />
-  <img src="https://img.shields.io/github/last-commit/RAJ-GITHUB-USERNAME?label=Last%20Commit&color=0ea5e9" />
+  <img src="https://img.shields.io/badge/Followers-52-blue?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Stars-4-yellow?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Badges-2-orange?style=flat&logo=github" />
 </p>
 
 <p align="center">
@@ -63,12 +63,12 @@ Currently strengthening real-world analytics projects alongside graduation.
 ## 📊 Profile Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_radius=12" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_radius=12&custom_title=GitHub%20Statistics" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border_radius=12&custom_title=Contribution%20Streak" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=12" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=12&custom_title=Most%20Used%20Languages" height="180"/>
 </p>
 
 <p align="center">
@@ -107,8 +107,8 @@ Currently strengthening real-world analytics projects alongside graduation.
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/RAJ-GITHUB-USERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RAJ-GITHUB-USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=12" width="48%" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_radius=12&include_all_commits=true&count_private=true&custom_title=Activity%20Overview&hide=prs,issues" width="48%" height="195"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RAJ-GITHUB-USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=12&custom_title=Coding%20Time" width="48%" height="195"/>
 </div>
 
 ---
@@ -154,6 +154,10 @@ Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
 <div align="center">
+  <p align="center">
+    <img src="https://img.shields.io/badge/🚀_Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </p>
+  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="90%"/>
 </div>
 
@@ -169,10 +173,10 @@ Currently strengthening real-world analytics projects alongside graduation.
   </a>
 </p>
 
-<p align="center">
+<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="48%"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="48%"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer&reversal=false"/>
