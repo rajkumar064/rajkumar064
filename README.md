@@ -63,16 +63,12 @@ Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=12&custom_title=Most%20Used%20Languages" height="180"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/deepseek_mermaid_20260116_b8aac1.svg" width="95%"/>
+  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/deepseek_mermaid_20260116_b8aac1.svg" width="80%"/>
 </p>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</div>
 
 ---
 
