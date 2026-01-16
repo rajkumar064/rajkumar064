@@ -120,13 +120,13 @@ Currently strengthening real-world analytics projects alongside graduation.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Advanced+Power+BI+DAX+%26+Data+Modeling;SQL+Query+Optimization+for+Analytics;End-to-End+Analytics+Portfolio+Projects" />
 </p>
 
-<div align="center">
+<div align="Left">
   
 ### **Priority Breakdown:**
-- **Power BI** ████████████████████████ 35%
-- **SQL** █████████████████████ 30%
-- **Data Modeling** ████████████████ 20%
-- **Visualization** ███████████ 15%
+**Power BI** ████████████████████████ 35%
+**SQL** █████████████████████ 30%
+**Data Modeling** ████████████████ 20%
+**Visualization** ███████████ 15%
 </div>
 
 ---
