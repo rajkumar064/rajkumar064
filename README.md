@@ -8,6 +8,10 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAJ-GITHUB-USERNAME&label=Profile+Views&color=0ea5e9&style=flat"/>
+  <img src="https://visitcount.itsvg.in/api?id=RAJ-GITHUB-USERNAME&label=Visitors&color=0ea5e9&icon=0&pretty=true" />
+  <img src="https://img.shields.io/github/followers/RAJ-GITHUB-USERNAME?label=Followers&style=flat&color=0ea5e9" />
+  <img src="https://img.shields.io/github/stars/RAJ-GITHUB-USERNAME?label=Total%20Stars&color=0ea5e9" />
+  <img src="https://img.shields.io/github/last-commit/RAJ-GITHUB-USERNAME?label=Last%20Commit&color=0ea5e9" />
 </p>
 
 <p align="center">
@@ -46,7 +50,34 @@ Currently strengthening real-world analytics projects alongside graduation.
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://www.kaggle.com/yourusername">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+  </a>
+  <a href="https://medium.com/@yourusername">
+    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+  </a>
 </p>
+
+---
+
+## 📊 Profile Analytics Dashboard
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_radius=12" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border_radius=12" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=12" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true&bg_color=0d1117&color=0ea5e9&line=7e22ce&point=ffffff&area=true&area_color=0ea5e9&custom_title=GitHub%20Contribution%20Graph" width="95%"/>
+</p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</div>
 
 ---
 
@@ -57,62 +88,62 @@ Currently strengthening real-world analytics projects alongside graduation.
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
 ![Power Query](https://img.shields.io/badge/Power%20Query-742774?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-2563EB?style=for-the-badge&logo=microsoft&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 ### 📄 Spreadsheets & Reporting
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ### 🗄️ Query & Data
 ![SQL](https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🧰 Tools
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MS Office](https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
 
-## 📊 GitHub Analytics
+## 📈 GitHub Metrics
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&hide_border=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=transparent&hide_border=true"
-    height="170"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-GITHUB-USERNAME&layout=compact&langs_count=8&theme=transparent&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true"
-    width="90%"
-  />
-</p>
+<div align="center">
+  <img src="https://metrics.lecoq.io/RAJ-GITHUB-USERNAME?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=half-year&config.timezone=Asia%2FCalcutta" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RAJ-GITHUB-USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=12" width="48%" height="195"/>
+</div>
 
 ---
 
 ## 🧩 Featured Projects
 
-| Project | Description | Tools |
-|-------|------------|-------|
-| 📌 Sales Performance Dashboard | Interactive sales & region analysis | Excel, Power BI |
-| 📌 MIS Reporting Automation | Automated reporting workflows | Excel, Power Query |
-| 📌 SQL Case Study | KPI extraction from raw datasets | SQL |
+<div align="center">
+  
+| Project | Description | Tools | Status |
+|---------|-------------|-------|--------|
+| **📊 Sales Performance Dashboard** | Interactive sales & region analysis dashboard | Excel, Power BI | 🟢 Live |
+| **⚡ MIS Reporting Automation** | Automated reporting workflows system | Excel, Power Query | 🟢 Live |
+| **📈 SQL Case Study** | KPI extraction from raw datasets | MySQL, SQL Server | 🟢 Live |
+| **📉 Financial Analytics Dashboard** | Financial metrics visualization | Power BI, Excel | 🟡 In Progress |
+
+</div>
 
 ---
 
 ## 🌱 Currently Working On
 
-- Advanced Power BI DAX & data modeling  
-- SQL optimization for analytics  
-- End-to-end analytics portfolio projects  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Advanced+Power+BI+DAX+%26+Data+Modeling;SQL+Query+Optimization+for+Analytics;End-to-End+Analytics+Portfolio+Projects" />
+</p>
+
+<div align="center">
+  
+| Skill | Progress |
+|-------|----------|
+| **Power BI DAX** | ![75%](https://progress-bar.dev/75/?color=0ea5e9&title=) |
+| **SQL Optimization** | ![65%](https://progress-bar.dev/65/?color=7e22ce&title=) |
+| **Data Modeling** | ![70%](https://progress-bar.dev/70/?color=0ea5e9&title=) |
+| **Dashboard Design** | ![80%](https://progress-bar.dev/80/?color=7e22ce&title=) |
+
+</div>
 
 ---
 
@@ -122,12 +153,31 @@ Currently strengthening real-world analytics projects alongside graduation.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=800&lines=Open+to+Data+Analysis+%7C+MIS+%7C+BI+Roles" />
 </p>
 
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="90%"/>
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
+  </a>
+  <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0EA5E9&height=3"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer&reversal=false"/>
+</p>
+
+<p align="center">
+  <i>🚀 Transforming data into decisions • 📊 Building insights that matter</i>
 </p>
