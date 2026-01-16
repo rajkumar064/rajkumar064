@@ -58,11 +58,6 @@ Currently strengthening real-world analytics projects alongside graduation.
 ## 📊 Profile Analytics Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_radius=12&custom_title=GitHub%20Statistics" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RAJ-GITHUB-USERNAME&theme=github-dark&hide_border=true&background=0d1117&ring=0ea5e9&fire=0ea5e9&currStreakLabel=0ea5e9&border_radius=12&custom_title=Contribution%20Streak" height="180"/>
-</p>
-
-<p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="50%"/>
 </p>
 
