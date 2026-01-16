@@ -122,13 +122,11 @@ Currently strengthening real-world analytics projects alongside graduation.
 
 <div align="center">
   
-| Skill | Progress |
-|-------|----------|
-| **Power BI DAX** | ![75%](https://progress-bar.dev/75/?color=0ea5e9&title=) |
-| **SQL Optimization** | ![65%](https://progress-bar.dev/65/?color=7e22ce&title=) |
-| **Data Modeling** | ![70%](https://progress-bar.dev/70/?color=0ea5e9&title=) |
-| **Dashboard Design** | ![80%](https://progress-bar.dev/80/?color=7e22ce&title=) |
-
+### **Priority Breakdown:**
+- **Power BI** ████████████████████████ 35%
+- **SQL** █████████████████████ 30%
+- **Data Modeling** ████████████████ 20%
+- **Visualization** ███████████ 15%
 </div>
 
 ---
