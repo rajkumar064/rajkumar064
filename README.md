@@ -120,15 +120,9 @@ Currently strengthening real-world analytics projects alongside graduation.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0EA5E9&center=true&vCenter=true&width=900&lines=Advanced+Power+BI+DAX+%26+Data+Modeling;SQL+Query+Optimization+for+Analytics;End-to-End+Analytics+Portfolio+Projects" />
 </p>
 
-<div>
-  
-### **Priority Breakdown:**
-- **Power BI** ████████████████████████ 35%
-- **SQL** █████████████████████ 30%
-- **Data Modeling** ████████████████ 20%
-- **Visualization** ███████████ 15%
-</div>
-
+<p align="center">
+  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/Gemini_Generated_Image_hrt60zhrt60zhrt6.png" width="70%"/>
+</p>
 ---
 
 ## 📬 Open to Opportunities
