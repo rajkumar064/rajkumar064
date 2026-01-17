@@ -131,14 +131,6 @@ Currently strengthening real-world analytics projects alongside graduation.
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=800&color=0EA5E9&center=true&vCenter=true&width=800&lines=Open+to+Data+Analysis+%7C+MIS+%7C+BI+Roles" />
 </p>
 
-<div align="center">
-  <p align="center">
-    <img src="https://img.shields.io/badge/🚀_Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </p>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="90%"/>
-</div>
-
 <p align="center">
   <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/🚀_Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
