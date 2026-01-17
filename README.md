@@ -62,7 +62,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
 <p align="center">
-  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/ChatGPT%20Image%20Jan%2017%2C%202026%2C%2011_56_39%20AM_imgupscaler.ai_Beta_2K.jpg" width="50%"/>
+  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/Beta_2K.jpg" width="50%"/>
 </p>
 
 ---
