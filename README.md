@@ -62,7 +62,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
 <p align="center">
-  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/Gemini_Generated_Image_alebumalebumaleb.png" width="70%"/>
+  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/deepseek_mermaid_20260116_b8aac1.svg" width="70%"/>
 </p>
 
 ---
