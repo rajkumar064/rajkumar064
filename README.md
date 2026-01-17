@@ -48,7 +48,7 @@ Currently strengthening real-world analytics projects alongside graduation.
   <a href="https://www.kaggle.com/yourusername">
     <img src="https://img.shields.io/badge/Naukri.com-2CA5E0?style=for-the-badge&logo=naukri&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@yourusername">
+  <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-jobseeker-profile--profile-one-frontend">
     <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"/>
   </a>
 </p>
