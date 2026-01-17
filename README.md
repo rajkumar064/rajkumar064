@@ -49,7 +49,7 @@ Currently strengthening real-world analytics projects alongside graduation.
     <img src="https://img.shields.io/badge/Naukri.com-2CA5E0?style=for-the-badge&logo=naukri&logoColor=white"/>
   </a>
   <a href="https://medium.com/@yourusername">
-    <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"/>
   </a>
 </p>
 
