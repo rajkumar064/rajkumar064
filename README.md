@@ -146,11 +146,6 @@ Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
 
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="48%"/>
-</div>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=100&section=footer&reversal=false"/>
 </p>
