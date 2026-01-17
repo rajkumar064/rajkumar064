@@ -36,7 +36,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/raj-kumar-084142292">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/rajkumar064">
