@@ -133,13 +133,13 @@ Currently strengthening real-world analytics projects alongside graduation.
   <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/🚀_Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
+  <a href="https://github.com/rajkumar064?tab=repositories">
     <img src="https://img.shields.io/badge/📂_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourusername">
+  <a href="https://www.linkedin.com/in/raj-kumar-084142292">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href=""mailto:rajkumar200406@gmail.com">
     <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
 </p>
