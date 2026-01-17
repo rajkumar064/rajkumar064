@@ -1,0 +1,64 @@
+<svg width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="800" height="220" rx="20" ry="20" fill="#0d1117"/>
+
+  <text x="400" y="36"
+        text-anchor="middle"
+        font-size="22"
+        font-weight="700"
+        fill="#ffffff"
+        font-family="Segoe UI, Roboto, Arial">
+    GitHub Metrics
+  </text>
+
+  <!-- Stars -->
+  <text x="100" y="115"
+        text-anchor="middle"
+        font-size="32"
+        font-weight="700"
+        fill="#58a6ff"
+        font-family="Segoe UI, Roboto, Arial">4</text>
+  <text x="100" y="150"
+        text-anchor="middle"
+        font-size="14"
+        fill="#c9d1d9"
+        font-family="Segoe UI, Roboto, Arial">⭐ Stars</text>
+
+  <!-- Forks -->
+  <text x="260" y="115"
+        text-anchor="middle"
+        font-size="32"
+        font-weight="700"
+        fill="#58a6ff"
+        font-family="Segoe UI, Roboto, Arial">25</text>
+  <text x="260" y="150"
+        text-anchor="middle"
+        font-size="14"
+        fill="#c9d1d9"
+        font-family="Segoe UI, Roboto, Arial">🍴 Forks</text>
+
+  <!-- Issues -->
+  <text x="420" y="115"
+        text-anchor="middle"
+        font-size="32"
+        font-weight="700"
+        fill="#58a6ff"
+        font-family="Segoe UI, Roboto, Arial">7</text>
+  <text x="420" y="150"
+        text-anchor="middle"
+        font-size="14"
+        fill="#c9d1d9"
+        font-family="Segoe UI, Roboto, Arial">🐛 Issues</text>
+
+  <!-- Contributions -->
+  <text x="600" y="115"
+        text-anchor="middle"
+        font-size="32"
+        font-weight="700"
+        fill="#58a6ff"
+        font-family="Segoe UI, Roboto, Arial">105</text>
+  <text x="600" y="150"
+        text-anchor="middle"
+        font-size="14"
+        fill="#c9d1d9"
+        font-family="Segoe UI, Roboto, Arial">🚀 Contributions</text>
+</svg>
