@@ -134,20 +134,21 @@ Currently strengthening real-world analytics projects alongside graduation.
   <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
     <img src="https://img.shields.io/badge/🚀_Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/📂_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
+  </a>
   <a href="https://www.linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/📧_Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/>
   </a>
-  <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
-    <img src="https://img.shields.io/badge/📂_View_Projects-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/>
-  </a>
 </p>
+
+
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="48%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAJ-GITHUB-USERNAME&theme=github_dark" width="48%"/>
 </div>
 
 <p align="center">
