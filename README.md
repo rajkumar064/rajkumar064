@@ -45,7 +45,7 @@ Currently strengthening real-world analytics projects alongside graduation.
   <a href="mailto:rajkumar200406@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.kaggle.com/yourusername">
+  <a href="https://www.naukri.com/mnjuser/homepage">
     <img src="https://img.shields.io/badge/Naukri.com-2CA5E0?style=for-the-badge&logo=naukri&logoColor=white"/>
   </a>
   <a href="https://profile.indeed.com/?hl=en_IN&co=IN&from=gnav-jobseeker-profile--profile-one-frontend">
