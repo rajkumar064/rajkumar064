@@ -140,6 +140,9 @@ Currently strengthening real-world analytics projects alongside graduation.
 </div>
 
 <p align="center">
+  <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
+    <img src="https://img.shields.io/badge/🚀_Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/yourusername">
     <img src="https://img.shields.io/badge/💼_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
