@@ -93,7 +93,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 ## 📈 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAJ-GITHUB-USERNAME&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&icon_color=0ea5e9&text_color=ffffff&border_radius=12&include_all_commits=true&count_private=true&custom_title=Activity%20Overview&hide=prs,issues" width="48%" height="195"/>
+  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/image.svg" width="48%" height="195"/>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=RAJ-GITHUB-USERNAME&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=0ea5e9&text_color=ffffff&border_radius=12&custom_title=Coding%20Time" width="48%" height="195"/>
 </div>
 
