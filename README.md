@@ -130,7 +130,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
 <p align="center">
-  <a href="https://github.com/RAJ-GITHUB-USERNAME?tab=repositories">
+  <a href="https://github.com/rajkumar064">
     <img src="https://img.shields.io/badge/🚀_Follow_me_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://github.com/rajkumar064?tab=repositories">
