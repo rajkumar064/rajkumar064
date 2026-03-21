@@ -8,9 +8,9 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAJ-GITHUB-USERNAME&label=Profile+Views&color=0ea5e9&style=flat"/>
-  <img src="https://img.shields.io/badge/Followers-52-blue?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Total%20Stars-4-yellow?style=flat&logo=github" />
-  <img src="https://img.shields.io/badge/Badges-2-orange?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Followers-1-blue?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Total%20Stars-0-yellow?style=flat&logo=github" />
+  <img src="https://img.shields.io/badge/Badges-3-orange?style=flat&logo=github" />
 </p>
 
 <p align="center">
