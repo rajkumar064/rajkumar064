@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/raj2608/raj2608/main/assets/data-analytics.gif" width="460"/>
+  <img src="https://raw.githubusercontent.com/raj2608/raj2608/main/assets/data-analytics.gif" width="25"/>
 </p>
 
 <p align="center">
