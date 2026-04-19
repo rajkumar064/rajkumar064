@@ -120,7 +120,7 @@ Currently strengthening real-world analytics projects alongside graduation.
 </p>
 
 <p align="center">
-  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/skill_priority_breakdown.svg" width="70%"/>
+  <img src="https://github.com/rajkumar064/rajkumar064/blob/main/skill_priority_breakdown.svg" width="80%"/>
 </p>
 
 ## 📬 Open to Opportunities
