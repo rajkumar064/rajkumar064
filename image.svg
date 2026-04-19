@@ -16,7 +16,7 @@
         font-size="32"
         font-weight="700"
         fill="#58a6ff"
-        font-family="Segoe UI, Roboto, Arial">4</text>
+        font-family="Segoe UI, Roboto, Arial">2</text>
   <text x="100" y="150"
         text-anchor="middle"
         font-size="14"
@@ -29,7 +29,7 @@
         font-size="32"
         font-weight="700"
         fill="#58a6ff"
-        font-family="Segoe UI, Roboto, Arial">25</text>
+        font-family="Segoe UI, Roboto, Arial">4</text>
   <text x="260" y="150"
         text-anchor="middle"
         font-size="14"
@@ -42,7 +42,7 @@
         font-size="32"
         font-weight="700"
         fill="#58a6ff"
-        font-family="Segoe UI, Roboto, Arial">7</text>
+        font-family="Segoe UI, Roboto, Arial">3</text>
   <text x="420" y="150"
         text-anchor="middle"
         font-size="14"
@@ -55,7 +55,7 @@
         font-size="32"
         font-weight="700"
         fill="#58a6ff"
-        font-family="Segoe UI, Roboto, Arial">105</text>
+        font-family="Segoe UI, Roboto, Arial">15</text>
   <text x="600" y="150"
         text-anchor="middle"
         font-size="14"
