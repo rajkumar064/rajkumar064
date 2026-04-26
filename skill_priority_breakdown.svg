@@ -1,102 +1,197 @@
-<svg viewBox="0 0 780 400" xmlns="http://www.w3.org/2000/svg" role="img" style="">
+<svg width="100%" viewBox="0 0 760 500" role="img" xmlns="http://www.w3.org/2000/svg" style=""><defs><mask id="imagine-text-gaps-gc04em" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="760" height="500" fill="white"/><rect x="283.98638916015625" y="15.813207626342773" width="192.02719116210938" height="21.564599990844727" fill="black" rx="2"/><rect x="214.46617126464844" y="189.8665771484375" width="55.0676383972168" height="16.160107612609863" fill="black" rx="2"/><rect x="225.99293518066406" y="204.19102478027344" width="32.01410102844238" height="17.51123046875" fill="black" rx="2"/><rect x="164.6949005126953" y="281.8665771484375" width="30.6459903717041" height="16.160107612609863" fill="black" rx="2"/><rect x="163.99295043945312" y="296.1910095214844" width="32.01410102844238" height="17.51123046875" fill="black" rx="2"/><rect x="96.07738494873047" y="221.8665771484375" width="31.845211029052734" height="16.160107612609863" fill="black" rx="2"/><rect x="95.9929428100586" y="236.19100952148438" width="32.01410102844238" height="17.51123046875" fill="black" rx="2"/><rect x="130.476318359375" y="159.8665771484375" width="24.37181282043457" height="16.160107612609863" fill="black" rx="2"/><rect x="126.99295043945312" y="174.19102478027344" width="32.01410102844238" height="17.51123046875" fill="black" rx="2"/><rect x="34" y="413.1910095214844" width="56.682655334472656" height="17.51123046875" fill="black" rx="2"/><rect x="122" y="413.1910095214844" width="32.09056854248047" height="17.51123046875" fill="black" rx="2"/><rect x="174" y="413.1910095214844" width="85.44869232177734" height="17.51123046875" fill="black" rx="2"/><rect x="308.3244323730469" y="413.1910095214844" width="75.90135955810547" height="17.51123046875" fill="black" rx="2"/><rect x="392.1031799316406" y="351.8665466308594" width="23.89680767059326" height="16.160107612609863" fill="black" rx="2"/><rect x="385.98089599609375" y="277.8665771484375" width="30.019084930419922" height="16.160107612609863" fill="black" rx="2"/><rect x="385.98089599609375" y="203.8665771484375" width="30.019084930419922" height="16.160107612609863" fill="black" rx="2"/><rect x="385.98089599609375" y="130.8665771484375" width="30.019084930419922" height="16.160107612609863" fill="black" rx="2"/><rect x="385.98089599609375" y="-12.1334228515625" width="30.019084930419922" height="16.160107612609863" fill="black" rx="2"/><rect x="359.8691711425781" y="199.86656188964844" width="64.26161193847656" height="16.160107612609863" fill="black" rx="2"/><rect x="453.9929504394531" y="-12.808984756469727" width="32.01410102844238" height="17.51123046875" fill="black" rx="2"/><rect x="443.68536376953125" y="367.8665771484375" width="52.6292839050293" height="16.160107612609863" fill="black" rx="2"/><rect x="527.992919921875" y="114.19100952148438" width="32.01410102844238" height="17.51123046875" fill="black" rx="2"/><rect x="528.9957275390625" y="367.8665771484375" width="30.008527755737305" height="16.160107612609863" fill="black" rx="2"/><rect x="601.992919921875" y="187.19100952148438" width="32.01410102844238" height="17.51123046875" fill="black" rx="2"/><rect x="602.3834838867188" y="365.8665466308594" width="31.23298454284668" height="16.160107612609863" fill="black" rx="2"/><rect x="591.6800537109375" y="379.8665771484375" width="52.63983917236328" height="16.160107612609863" fill="black" rx="2"/><rect x="675.992919921875" y="224.19100952148438" width="32.01410102844238" height="17.51123046875" fill="black" rx="2"/><rect x="670.6148071289062" y="365.8665466308594" width="42.48514175415039" height="16.160107612609863" fill="black" rx="2"/><rect x="672.1032104492188" y="379.8665771484375" width="39.79361534118652" height="16.160107612609863" fill="black" rx="2"/><rect x="552.9979248046875" y="427.1910095214844" width="36.07827377319336" height="17.51123046875" fill="black" rx="2"/></mask></defs>
   <title style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Skill Priority Breakdown</title>
-  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Animated pie and bar chart showing Power BI 35%, SQL 30%, Data Modeling 20%, Visualization 15%</desc>
+  <desc style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">Power BI 35%, SQL 30%, Data Modeling 20%, Visualization 15%</desc>
 
-  <defs>
-    <filter id="soft-shadow" x="-10%" y="-10%" width="120%" height="120%">
-      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#00000018"/>
-    </filter>
-  <mask id="imagine-text-gaps-k7y4se" maskUnits="userSpaceOnUse"><rect x="0" y="0" width="780" height="400" fill="white"/><rect x="294.3488464355469" y="9.476808547973633" width="191.66531372070312" height="26.639453887939453" fill="black" rx="2"/><rect x="213.87445068359375" y="154.56399536132812" width="36.448835372924805" height="22.523189544677734" fill="black" rx="2"/><rect x="191.87445068359375" y="242.56399536132812" width="36.448835372924805" height="22.523189544677734" fill="black" rx="2"/><rect x="133.87445068359375" y="196.56399536132812" width="36.448835372924805" height="22.523189544677734" fill="black" rx="2"/><rect x="147.87445068359375" y="134.5640106201172" width="36.448835372924805" height="22.523189544677734" fill="black" rx="2"/><rect x="72" y="323.62213134765625" width="53.79344177246094" height="20.465057373046875" fill="black" rx="2"/><rect x="157" y="323.62213134765625" width="29.594858169555664" height="20.465057373046875" fill="black" rx="2"/><rect x="217" y="323.62213134765625" width="86.92735290527344" height="20.465057373046875" fill="black" rx="2"/><rect x="326.9709167480469" y="323.62213134765625" width="75.92237854003906" height="20.465057373046875" fill="black" rx="2"/><rect x="403.0785217285156" y="279.65118408203125" width="23.186104774475098" height="19.435991287231445" fill="black" rx="2"/><rect x="397.1452941894531" y="241.6511993408203" width="29.110647201538086" height="19.435991287231445" fill="black" rx="2"/><rect x="397.1452941894531" y="203.6511993408203" width="29.110647201538086" height="19.435991287231445" fill="black" rx="2"/><rect x="397.1452941894531" y="165.6511993408203" width="29.110647201538086" height="19.435991287231445" fill="black" rx="2"/><rect x="396.1162414550781" y="127.65119934082031" width="30.139713287353516" height="19.435991287231445" fill="black" rx="2"/><rect x="452.87445068359375" y="132.5640106201172" width="36.448835372924805" height="22.523189544677734" fill="black" rx="2"/><rect x="443.170654296875" y="296.6221008300781" width="55.65862274169922" height="20.465057373046875" fill="black" rx="2"/><rect x="518.8743896484375" y="151.56399536132812" width="36.44886589050293" height="22.523189544677734" fill="black" rx="2"/><rect x="522.2590942382812" y="296.6221008300781" width="29.77645492553711" height="20.465057373046875" fill="black" rx="2"/><rect x="584.8744506835938" y="189.5640106201172" width="36.44886589050293" height="22.523189544677734" fill="black" rx="2"/><rect x="558.4323120117188" y="296.6221008300781" width="89.13542938232422" height="20.465057373046875" fill="black" rx="2"/><rect x="650.8744506835938" y="208.56399536132812" width="36.44880294799805" height="22.523189544677734" fill="black" rx="2"/><rect x="629.4650268554688" y="296.6221008300781" width="78.242431640625" height="20.465057373046875" fill="black" rx="2"/><rect x="569.02099609375" y="323.65118408203125" width="32.43215370178223" height="19.435991287231445" fill="black" rx="2"/><rect x="374.0513000488281" y="160.6511993408203" width="62.321800231933594" height="19.435991287231445" fill="black" rx="2"/></mask></defs>
+  <!-- TITLE -->
+  <text x="380" y="32" text-anchor="middle" font-family="sans-serif" font-size="16" font-weight="700" fill="var(--color-text-primary,#1a1a1a)" style="fill:rgb(20, 20, 19);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:16px;font-weight:700;text-anchor:middle;dominant-baseline:auto">Skill Priority Breakdown</text>
 
-  
+  <!--
+  ════════════════════════════════════════════════
+  PIE CHART
+  cx=180  cy=240  r=130
 
-  <!-- Title -->
-  <text x="390" y="30" text-anchor="middle" style="fill:rgb(26, 26, 46);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:17px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Skill Priority Breakdown</text>
+  Sweep clockwise from -90° (top):
+    Slice 1  Power BI     35%  126°   -90° → 36°
+    Slice 2  SQL          30%  108°    36° → 144°
+    Slice 3  Data Model   20%   72°   144° → 216°
+    Slice 4  Visualization15%   54°   216° → 270° (=top)
 
-  <!-- ─── PIE CHART ─── -->
-  <!-- Power BI 35% → 0° to 126° -->
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <path d="M195,210 L195,110 A100,100 0 0,1 279.9,160 Z" fill="#4472C4" style="fill:rgb(68, 114, 196);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  </g>
-  <!-- SQL 30% → 126° to 234° -->
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <path d="M195,210 L279.9,160 A100,100 0 0,1 136.9,294.5 Z" fill="#70AD47" style="fill:rgb(112, 173, 71);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  </g>
-  <!-- Data Modeling 20% → 234° to 306° -->
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <path d="M195,210 L136.9,294.5 A100,100 0 0,1 136.9,125.5 Z" fill="#ED7D31" style="fill:rgb(237, 125, 49);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  </g>
-  <!-- Visualization 15% → 306° to 360° -->
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <path d="M195,210 L136.9,125.5 A100,100 0 0,1 195,110 Z" fill="#9E5FB5" style="fill:rgb(158, 95, 181);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  </g>
+  Arc endpoints  x=cx+r·cosθ  y=cy+r·sinθ:
+    θ=-90°  → (180+130·0,      240-130·1)     = (180, 110)
+    θ= 36°  → (180+130·0.809,  240+130·0.588) = (180+105.2, 240+76.4) = (285, 316)
+    θ=144°  → (180+130·(-0.809),240+130·0.588)= (180-105.2, 240+76.4) = ( 75, 316)
+    θ=216°  → (180+130·(-0.809),240+130·(-0.588))=(75, 240-76.4)      = ( 75, 164)
+    θ=270°  → (180, 110)  ← same as start ✓
 
-  <!-- Pie percentage labels -->
-  <text x="232" y="172" text-anchor="middle" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">35%</text>
-  <text x="210" y="260" text-anchor="middle" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">30%</text>
-  <text x="152" y="214" text-anchor="middle" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">20%</text>
-  <text x="166" y="152" text-anchor="middle" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">15%</text>
+  All sweeps < 180° → large-arc-flag = 0
 
-  <!-- Legend -->
-  <rect x="60" y="328" width="11" height="11" fill="#4472C4" rx="2" style="fill:rgb(68, 114, 196);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="76" y="339" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Power BI</text>
-  <rect x="145" y="328" width="11" height="11" fill="#70AD47" rx="2" style="fill:rgb(112, 173, 71);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="161" y="339" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">SQL</text>
-  <rect x="205" y="328" width="11" height="11" fill="#ED7D31" rx="2" style="fill:rgb(237, 125, 49);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="221" y="339" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Data Modeling</text>
-  <rect x="316" y="328" width="11" height="11" fill="#9E5FB5" rx="2" style="fill:rgb(158, 95, 181);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="332" y="339" style="fill:rgb(68, 68, 68);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Visualization</text>
+  LABEL positions  r=70 from center at midpoint angle:
+    PBI  mid= -90+63 = -27°  cos(-27)=0.891  sin(-27)=-0.454
+         x=180+70·0.891=180+62.4=242   y=240+70·(-0.454)=240-31.8=208
+    SQL  mid=  36+54 =  90°  cos=0     sin=1
+         x=180+0=180                   y=240+70=310
+    DM   mid= 144+36 = 180°  cos=-1    sin=0
+         x=180-70=110                  y=240
+         Slice spans x: from arc(75) to center(180) = 105px wide
+         Label at x=110 is 35px from left arc, 70px from center ✓ clearly inside
+    Viz  mid= 216+27 = 243°  cos(-117°)... 243°: cos=cos(180+63)=-cos63=-0.454  sin=sin(180+63)=-sin63=-0.891
+         x=180+70·(-0.454)=180-31.8=148  y=240+70·(-0.891)=240-62.4=178
+  ════════════════════════════════════════════════
+  -->
 
-  <!-- ─── DIVIDER ─── -->
-  <line x1="388" y1="55" x2="388" y2="355" stroke="#e0e0e0" stroke-width="1.5" mask="url(#imagine-text-gaps-k7y4se)" style="fill:rgb(0, 0, 0);stroke:rgb(224, 224, 224);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Slice 1: Power BI (blue) -->
+  <path d="M180,240 L180,110 A130,130 0 0,1 285,316 Z" fill="#2e86de" style="fill:rgb(46, 134, 222);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Slice 2: SQL (green) -->
+  <path d="M180,240 L285,316 A130,130 0 0,1  75,316 Z" fill="#27ae60" style="fill:rgb(39, 174, 96);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Slice 3: Data Modeling (orange) -->
+  <path d="M180,240 L 75,316 A130,130 0 0,1  75,164 Z" fill="#e67e22" style="fill:rgb(230, 126, 34);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- Slice 4: Visualization (purple) -->
+  <path d="M180,240 L 75,164 A130,130 0 0,1 180,110 Z" fill="#8e44ad" style="fill:rgb(142, 68, 173);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
-  <!-- ─── BAR CHART ─── -->
-  <!-- Y-axis grid lines & labels -->
-  <line x1="430" y1="290" x2="740" y2="290" stroke="#e8e8e8" stroke-width="1" style="fill:rgb(0, 0, 0);stroke:rgb(232, 232, 232);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="422" y="294" text-anchor="end" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">0%</text>
-  <line x1="430" y1="252" x2="740" y2="252" stroke="#e8e8e8" stroke-width="1" style="fill:rgb(0, 0, 0);stroke:rgb(232, 232, 232);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="422" y="256" text-anchor="end" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">10%</text>
-  <line x1="430" y1="214" x2="740" y2="214" stroke="#e8e8e8" stroke-width="1" mask="url(#imagine-text-gaps-k7y4se)" style="fill:rgb(0, 0, 0);stroke:rgb(232, 232, 232);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="422" y="218" text-anchor="end" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">20%</text>
-  <line x1="430" y1="176" x2="740" y2="176" stroke="#e8e8e8" stroke-width="1" mask="url(#imagine-text-gaps-k7y4se)" style="fill:rgb(0, 0, 0);stroke:rgb(232, 232, 232);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="422" y="180" text-anchor="end" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">30%</text>
-  <line x1="430" y1="138" x2="740" y2="138" stroke="#e8e8e8" stroke-width="1" mask="url(#imagine-text-gaps-k7y4se)" style="fill:rgb(0, 0, 0);stroke:rgb(232, 232, 232);color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  <text x="422" y="142" text-anchor="end" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">40%</text>
+  <!-- White borders between slices -->
+  <line x1="180" y1="240" x2="180" y2="110" stroke="#fff" stroke-width="2" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="180" y1="240" x2="285" y2="316" stroke="#fff" stroke-width="2" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="180" y1="240" x2=" 75" y2="316" stroke="#fff" stroke-width="2" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="180" y1="240" x2=" 75" y2="164" stroke="#fff" stroke-width="2" style="fill:rgb(0, 0, 0);stroke:rgb(255, 255, 255);color:rgb(0, 0, 0);stroke-width:2px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!-- PIE LABELS: skill name + percentage, 2 lines each
+       Each label: name on line1, percentage on line2, 16px apart
+       Power BI  x=242 y=200 (name), y=216 (%)
+       SQL       x=180 y=302 (name), y=318 (%)  — but 318 near arc bottom(316)
+                 shift up: y=294 (name), y=310 (%)
+       DM        x=110 y=232 (name), y=248 (%)
+       Viz       x=148 y=170 (name), y=186 (%)
+  -->
+
+  <!-- Power BI label -->
+  <text x="242" y="202" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Power BI</text>
+  <text x="242" y="217" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">35%</text>
+
+  <!-- SQL label -->
+  <text x="180" y="294" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:600;text-anchor:middle;dominant-baseline:auto">SQL</text>
+  <text x="180" y="309" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">30%</text>
+
+  <!-- Data Modeling label — x=110 confirmed inside orange slice -->
+  <text x="112" y="234" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Data</text>
+  <text x="112" y="249" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">20%</text>
+
+  <!-- Visualization label -->
+  <text x="143" y="172" text-anchor="middle" font-family="sans-serif" font-size="11" font-weight="600" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:600;text-anchor:middle;dominant-baseline:auto">Viz</text>
+  <text x="143" y="187" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#fff" style="fill:rgb(255, 255, 255);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">15%</text>
+
+  <!--
+  LEGEND — single row below pie, y=415..430
+  Items: swatch(14px) + 5px gap + text
+    "Power BI"      x=20
+    "SQL"           x=110
+    "Data Modeling" x=155
+    "Visualization" x=275
+  -->
+  <rect x="20" y="415" width="13" height="13" rx="2" fill="#2e86de" style="fill:rgb(46, 134, 222);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="38" y="426" font-family="sans-serif" font-size="12" fill="var(--color-text-secondary,#444)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Power BI</text>
+
+  <rect x="108" y="415" width="13" height="13" rx="2" fill="#27ae60" style="fill:rgb(39, 174, 96);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="126" y="426" font-family="sans-serif" font-size="12" fill="var(--color-text-secondary,#444)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">SQL</text>
+
+  <rect x="160" y="415" width="13" height="13" rx="2" fill="#e67e22" style="fill:rgb(230, 126, 34);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="178" y="426" font-family="sans-serif" font-size="12" fill="var(--color-text-secondary,#444)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Data Modeling</text>
+
+  <rect x="295" y="415" width="13" height="13" rx="2" fill="#8e44ad" style="fill:rgb(142, 68, 173);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="313" y="426" font-family="sans-serif" font-size="12" fill="var(--color-text-secondary,#444)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:400;text-anchor:start;dominant-baseline:auto">Visualization</text>
+
+  <!-- DIVIDER -->
+  <line x1="375" y1="48" x2="375" y2="460" stroke="var(--color-border-tertiary,#ccc)" stroke-width="1" stroke-dasharray="5,3" mask="url(#imagine-text-gaps-gc04em)" style="fill:rgb(0, 0, 0);stroke:rgba(31, 30, 29, 0.15);color:rgb(0, 0, 0);stroke-width:1px;stroke-dasharray:5px, 3px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+
+  <!--
+  ════════════════════════════════════════════════
+  BAR CHART
+  Zone: x=390..750  y-axis at x=418
+  Usable bar area: x=418 to x=745  = 327px
+
+  4 bars  bar_w=50  gap=24
+  Total = 4×50 + 3×24 = 200+72 = 272px
+  Left pad = (327-272)/2 = 27 → first bar x = 418+27 = 445
+
+  Bar positions (left edge → center):
+    Bar1 PBI   x=445  cx=470
+    Bar2 SQL   x=445+50+24=519  cx=544
+    Bar3 DM    x=519+50+24=593  cx=618
+    Bar4 Viz   x=593+50+24=667  cx=692   right=717 < 745 ✓
+
+  Y axis: bottom=360  top=65  height=295px
+  Scale: 40%=295px → 1%=7.375px
+    PBI  35%  h=258  top=360-258=102
+    SQL  30%  h=221  top=360-221=139
+    DM   20%  h=148  top=360-148=212
+    Viz  15%  h=111  top=360-111=249
+
+  % label above bar: y = top - 12
+    PBI  y=90    SQL  y=127    DM  y=200    Viz  y=237
+
+  X-axis labels: y=380 (20px below axis)
+  Verify no overlap between x-labels:
+    PBI  "Power BI" ~52px  → left=444  right=496  next bar=519 gap=23px ✓
+    SQL  "SQL"      ~22px  → left=533  right=555  next bar=593 gap=38px ✓
+    DM   split "Data"+"Modeling" each ~28/50px centered at 618 ✓
+    Viz  split "Visual-"+"ization" centered at 692, right=692+33=725 < 745 ✓
+
+  Gridlines at 0/10/20/30/40%:
+    0%  y=360
+    10% y=360-74=286
+    20% y=360-148=212
+    30% y=360-221=139
+    40% y=360-295=65
+  ════════════════════════════════════════════════
+  -->
 
   <!-- Y-axis line -->
-  <line x1="430" y1="55" x2="430" y2="290" stroke="#ccc" stroke-width="1.5" mask="url(#imagine-text-gaps-k7y4se)" style="fill:rgb(0, 0, 0);stroke:rgb(204, 204, 204);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="418" y1="60" x2="418" y2="360" stroke="var(--color-text-secondary,#999)" stroke-width="1.5" mask="url(#imagine-text-gaps-gc04em)" style="fill:rgb(0, 0, 0);stroke:rgb(61, 61, 58);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- X-axis line -->
+  <line x1="418" y1="360" x2="725" y2="360" stroke="var(--color-text-secondary,#999)" stroke-width="1.5" style="fill:rgb(0, 0, 0);stroke:rgb(61, 61, 58);color:rgb(0, 0, 0);stroke-width:1.5px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
-  <!-- Power BI bar 35% → height=133 -->
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <rect x="448" y="157" width="46" height="133" fill="#4472C4" rx="4" style="fill:rgb(68, 114, 196);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  </g>
-  <text x="471" y="150" text-anchor="middle" fill="#4472C4" style="fill:rgb(68, 114, 196);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">35%</text>
-  <text x="471" y="312" text-anchor="middle" style="fill:rgb(85, 85, 85);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:12px;font-weight:500;text-anchor:middle;dominant-baseline:auto">Power BI</text>
+  <!-- Gridlines -->
+  <line x1="418" y1="286" x2="723" y2="286" stroke="#e0e0e0" stroke-width="0.8" style="fill:rgb(0, 0, 0);stroke:rgb(224, 224, 224);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="418" y1="212" x2="723" y2="212" stroke="#e0e0e0" stroke-width="0.8" mask="url(#imagine-text-gaps-gc04em)" style="fill:rgb(0, 0, 0);stroke:rgb(224, 224, 224);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="418" y1="139" x2="723" y2="139" stroke="#e0e0e0" stroke-width="0.8" style="fill:rgb(0, 0, 0);stroke:rgb(224, 224, 224);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <line x1="418" y1=" 65" x2="723" y2=" 65" stroke="#e0e0e0" stroke-width="0.8" style="fill:rgb(0, 0, 0);stroke:rgb(224, 224, 224);color:rgb(0, 0, 0);stroke-width:0.8px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
 
-  <!-- SQL bar 30% → height=114 -->
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <rect x="514" y="176" width="46" height="114" fill="#70AD47" rx="4" style="fill:rgb(112, 173, 71);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  </g>
-  <text x="537" y="169" text-anchor="middle" fill="#70AD47" style="fill:rgb(112, 173, 71);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">30%</text>
-  <text x="537" y="312" text-anchor="middle" style="fill:rgb(85, 85, 85);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:12px;font-weight:500;text-anchor:middle;dominant-baseline:auto">SQL</text>
+  <!-- Y-axis labels -->
+  <text x="412" y="364" text-anchor="end" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#777)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">0%</text>
+  <text x="412" y="290" text-anchor="end" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#777)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">10%</text>
+  <text x="412" y="216" text-anchor="end" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#777)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">20%</text>
+  <text x="412" y="143" text-anchor="end" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#777)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">30%</text>
+  <text x="412" y=" 69" text-anchor="end" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#777)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:end;dominant-baseline:auto">40%</text>
 
-  <!-- Data Modeling 20% → height=76 -->
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <rect x="580" y="214" width="46" height="76" fill="#ED7D31" rx="4" style="fill:rgb(237, 125, 49);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  </g>
-  <text x="603" y="207" text-anchor="middle" fill="#ED7D31" style="fill:rgb(237, 125, 49);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">20%</text>
-  <text x="603" y="312" text-anchor="middle" style="fill:rgb(85, 85, 85);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:12px;font-weight:500;text-anchor:middle;dominant-baseline:auto">Data Modeling</text>
+  <!-- Y-axis title -->
+  <text x="392" y="212" text-anchor="middle" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#777)" transform="rotate(-90,392,212)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Percentage</text>
 
-  <!-- Visualization 15% → height=57 -->
-  <g style="fill:rgb(0, 0, 0);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto">
-    <rect x="646" y="233" width="46" height="57" fill="#9E5FB5" rx="4" style="fill:rgb(158, 95, 181);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
-  </g>
-  <text x="669" y="226" text-anchor="middle" fill="#9E5FB5" style="fill:rgb(158, 95, 181);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:14px;font-weight:700;text-anchor:middle;dominant-baseline:auto">15%</text>
-  <text x="669" y="312" text-anchor="middle" style="fill:rgb(85, 85, 85);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:12px;font-weight:500;text-anchor:middle;dominant-baseline:auto">Visualization</text>
+  <!-- BAR 1: Power BI — top=102 h=258 x=445 cx=470 -->
+  <rect x="445" y="102" width="50" height="258" rx="4" fill="#2e86de" style="fill:rgb(46, 134, 222);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <!-- % label 12px above bar top -->
+  <text x="470" y=" 90" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#2e86de" style="fill:rgb(46, 134, 222);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">35%</text>
+  <!-- x-axis label 20px below axis -->
+  <text x="470" y="380" text-anchor="middle" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#555)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Power BI</text>
 
-  <!-- X-axis label -->
-  <text x="585" y="338" text-anchor="middle" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Skills</text>
+  <!-- BAR 2: SQL — top=139 h=221 x=519 cx=544 -->
+  <rect x="519" y="139" width="50" height="221" rx="4" fill="#27ae60" style="fill:rgb(39, 174, 96);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="544" y="127" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#27ae60" style="fill:rgb(39, 174, 96);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">30%</text>
+  <text x="544" y="380" text-anchor="middle" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#555)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">SQL</text>
 
-  <!-- Y-axis label (rotated) -->
-  <text x="405" y="175" text-anchor="middle" transform="rotate(-90 405 175)" style="fill:rgb(136, 136, 136);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:system-ui, sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Percentage</text>
+  <!-- BAR 3: Data Modeling — top=212 h=148 x=593 cx=618 -->
+  <rect x="593" y="212" width="50" height="148" rx="4" fill="#e67e22" style="fill:rgb(230, 126, 34);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="618" y="200" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#e67e22" style="fill:rgb(230, 126, 34);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">20%</text>
+  <!-- 2-line x label: y=378 and y=392 -->
+  <text x="618" y="378" text-anchor="middle" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#555)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Data</text>
+  <text x="618" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#555)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Modeling</text>
+
+  <!-- BAR 4: Visualization — top=249 h=111 x=667 cx=692 -->
+  <rect x="667" y="249" width="50" height="111" rx="4" fill="#8e44ad" style="fill:rgb(142, 68, 173);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:&quot;Anthropic Sans&quot;, -apple-system, BlinkMacSystemFont, &quot;Segoe UI&quot;, sans-serif;font-size:16px;font-weight:400;text-anchor:start;dominant-baseline:auto"/>
+  <text x="692" y="237" text-anchor="middle" font-family="sans-serif" font-size="12" font-weight="700" fill="#8e44ad" style="fill:rgb(142, 68, 173);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:700;text-anchor:middle;dominant-baseline:auto">15%</text>
+  <!-- 2-line x label -->
+  <text x="692" y="378" text-anchor="middle" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#555)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Visual-</text>
+  <text x="692" y="392" text-anchor="middle" font-family="sans-serif" font-size="11" fill="var(--color-text-secondary,#555)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:11px;font-weight:400;text-anchor:middle;dominant-baseline:auto">ization</text>
+
+  <!-- X-axis section label -->
+  <text x="571" y="440" text-anchor="middle" font-family="sans-serif" font-size="12" fill="var(--color-text-secondary,#777)" style="fill:rgb(61, 61, 58);stroke:none;color:rgb(0, 0, 0);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;opacity:1;font-family:sans-serif;font-size:12px;font-weight:400;text-anchor:middle;dominant-baseline:auto">Skills</text>
+
 </svg>
